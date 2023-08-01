@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/brim-tech/qwasar_react_pokemon_project/static/css/main.518ffdfb.css",
+    "main.js": "/brim-tech/qwasar_react_pokemon_project/static/js/main.b167e11a.js",
+    "index.html": "/brim-tech/qwasar_react_pokemon_project/index.html",
+    "main.518ffdfb.css.map": "/brim-tech/qwasar_react_pokemon_project/static/css/main.518ffdfb.css.map",
+    "main.b167e11a.js.map": "/brim-tech/qwasar_react_pokemon_project/static/js/main.b167e11a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.518ffdfb.css",
+    "static/js/main.b167e11a.js"
+  ]
+}
